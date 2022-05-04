@@ -14,10 +14,10 @@ The easiest way to run this project is to download the Jason IDE, and run the ii
 
 [2] Bordini, R. H. and Hübner, J. F. (2006). BDI agent pro- gramming in AgentSpeak using jason. In Lecture Notes in Computer Science, pages 143–164. Springer Berlin Hei- delberg.
 
-## Authors
+### Authors
 
 * **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
 
-## License
+### License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
