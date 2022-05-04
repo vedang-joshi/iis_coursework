@@ -9,15 +9,15 @@ The easiest way to run this project is to download the Jason IDE, and run the ii
 - Download the latest version of [Jason](https://sourceforge.net/projects/jason/).
 - The Python code requires version 3.8. We recommend using Anaconda as the preferred package manager. Alternatively, the dependencies may be installed using the iis_coursework/Part1/requirements.txt file.
 
-### References
+## References
 [1] Hübner, J. F. and Bordini, R. H. (2007). Developing a team of gold miners using jason. In International Workshop on Programming Multi-Agent Systems, pages 241–245. Springer. 
 
 [2] Bordini, R. H. and Hübner, J. F. (2006). BDI agent pro- gramming in AgentSpeak using jason. In Lecture Notes in Computer Science, pages 143–164. Springer Berlin Hei- delberg.
 
-### Authors
+## Authors
 
 * **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
 
-### License
+## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
