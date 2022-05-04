@@ -1,0 +1,9 @@
+// Implementation of the student teacher-interactions 
+// during school evacuations
+
+MAS schoolenv {
+
+    environment: SchoolEnvironment
+
+    agents: teacher; teacher2;
+}
