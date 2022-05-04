@@ -1,5 +1,5 @@
 # EMATM0042 Intelligent Information Systems Coursework
-This repository is dedicated to host code developed for the EMATM0042 Intelligent Information Systems coursework. The implementation of the considered  scenario is influenced and inspired by the ‘gold-miners’ [1] and ‘cleaning robot’[2] widely known examples of Jason BDI (Belief-Desire-Intention) architecture. The Python code involved was completely developed in-house.
+This repository is dedicated to host code developed for the EMATM0042 Intelligent Information Systems coursework. The implementation of the considered  scenario is influenced and inspired by the ‘gold-miners’ [1] and ‘cleaning robot’ [2] widely known examples of Jason BDI (Belief-Desire-Intention) architecture. The Python code involved was completely developed in-house.
 
 ## How to run
 The easiest way to run this project is to download the Jason IDE, and run the iis_coursework/Part2/Jason-AgentSpeakCode/teacher_student_interactions.mas2j file in the jedit text editor. jedit may be run by opening the `jedit.jar' file in the jason installation.
@@ -14,5 +14,10 @@ The easiest way to run this project is to download the Jason IDE, and run the ii
 
 [2] Bordini, R. H. and Hübner, J. F. (2006). BDI agent pro- gramming in AgentSpeak using jason. In Lecture Notes in Computer Science, pages 143–164. Springer Berlin Hei- delberg.
 
+## Authors
 
-## Author
+* **Vedang Joshi**  - [Personal Page](https://vedang-joshi.github.io)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
