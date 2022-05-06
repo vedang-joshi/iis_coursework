@@ -33,6 +33,8 @@ graph.write_pdf('decision_tree.pdf')
 
 
 # Extract rules:
+# Based off https://stackoverflow.com/questions/20224526/how-to-extract-the-decision-rules-from-scikit-learn-decision-tree
+
 
 def get_rules(tree, feature_names, class_names):
     tree_ = tree.tree_
